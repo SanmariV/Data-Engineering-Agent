@@ -1,0 +1,6 @@
+# For scripts/build_information_matrix.py
+openpyxl>=3.1
+pyyaml>=6.0
+# profile step only
+databricks-sql-connector>=3.0
+databricks-sdk>=0.30
