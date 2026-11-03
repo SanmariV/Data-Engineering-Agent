@@ -1,0 +1,24 @@
+# Excel workbooks and templates
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+
+# PDF documents
+*.pdf
+
+# Word documents and templates
+*.doc
+*.docx
+*.docm
+*.dot
+*.dotx
+*.dotm
+
+# Environment files
+.env
+.env.*
+*.env
